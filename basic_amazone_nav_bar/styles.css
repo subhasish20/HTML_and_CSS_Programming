@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+
+}
+a {
+  text-decoration: none;
+  margin: 100px;
+}
+#navbar{
+    background-color: #0f1111;
+    height: 60px;   
+}
+button{
+    padding: 2px 2px;
+    color: rgb(0, 0, 0);
+    background-color: #f08804;
+    border: 1px solid white;
+    border-radius: 10px;
+
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+#input-text{
+    color: #000000;
+}
