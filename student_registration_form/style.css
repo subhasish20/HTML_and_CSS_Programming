@@ -9,3 +9,13 @@ nav{
     font-size: large;
     color: white;   
 }
+
+#form {
+    width: 300px; /* Set a specific width for the form */
+    margin: 0 auto; /* This centers the block element horizontally */
+    padding: 20px; /* Add some padding for better appearance */
+    border: 1px solid #ccc; /* Add a border to see the form boundaries */
+    border-radius: 8px; /* Slightly rounded corners */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow */
+    text-align: center; /* Center the text/inline elements inside the form */
+}
